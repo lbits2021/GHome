@@ -8,6 +8,3 @@ router.post('/login', loginUser);
 
 
 export default router;
-
-
-/// test rakesh 1
